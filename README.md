@@ -13,7 +13,7 @@ Link to the repo:https://github.com/ctobin25/quarantine-and-chill
 Link to the live website: https://ctobin25.github.io/quarantine-and-chill/
 This is the animated display of our website:
 ![image](https://drive.google.com/uc?export=view&id=1xNP0bGv9ZSW0caIDmv00lLmSfTCEPS3y)
-Collobrators:
+Collobrators:Adia Boyd, Beau Hengst, Caroline Tobin, Domo Christopher and Evan Chu
 
 The technologies are used are Foundation, APIs etc...
 
