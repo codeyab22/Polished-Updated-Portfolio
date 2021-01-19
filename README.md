@@ -1,4 +1,4 @@
-
+#Polished-Updated-Portfolio 
 This is the seventh project. This is concise, short portfolio that describes me and my journey. I am updating this portfolio using platforms. I am making future developments  for my projects and make the tables turn. 
 
 These are the repositories that I worked on and pinned:
