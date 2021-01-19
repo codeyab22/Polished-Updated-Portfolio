@@ -9,11 +9,16 @@ These are the repositories that I worked on and pinned:
 
 
 Quarantine and Chill
-Link to the repo:https://github.com/ctobin25/quarantine-and-chill
-Link to the live website: https://ctobin25.github.io/quarantine-and-chill/
+Link to the repo:
+https://github.com/ctobin25/quarantine-and-chill
+Link to the live website:
+https://ctobin25.github.io/quarantine-and-chill/
 This is the animated display of our website:
 ![image](https://drive.google.com/uc?export=view&id=1xNP0bGv9ZSW0caIDmv00lLmSfTCEPS3y)
 Collobrators:Adia Boyd, Beau Hengst, Caroline Tobin, Domo Christopher and Evan Chu
+Contact Info:
+
+e
 
 The technologies are used are Foundation, APIs etc...
 
@@ -26,8 +31,10 @@ Future Developments:
 It will have apis and client-storage that will serve the users. We will put the file into folders.  
 
 Code Convertible Password Generator
-Link to the repo:https://github.com/codeyab22/Code-Convertible-Password-Generator
-Link to the live website: https://codeyab22.github.io/Code-Convertible-Password-Generator/
+Link to the repo:
+https://github.com/codeyab22/Code-Convertible-Password-Generator
+Link to the live website:
+https://codeyab22.github.io/Code-Convertible-Password-Generator/
 This is an animated display of my website:
 ![image](https://drive.google.com/uc?export=view&id=1yQPzOhB0uszDs7GKBoYRZ3yffi2PSr2E)
 About the App:
@@ -37,21 +44,25 @@ Technologies: HTML, JavaScript, and CSS
 
 Future Developments:Create a user's story, simplifying the code into a clearer form. more 
 
-
 Cosmic Code Quiz
-Link to the repo: https://github.com/codeyab22/Cosmic-Code-Quiz
-Link to the live website: https://codeyab22.github.io/Cosmic-Code-Quiz/
+
+Link to the repo: 
+https://github.com/codeyab22/Cosmic-Code-Quiz
+Link to the live website:
+https://codeyab22.github.io/Cosmic-Code-Quiz/
 This is an animated display of my website:
 ![image](https://drive.google.com/uc?export=view&id=1IoxPa1FeNv-Wzd6DLxvW4SxCwrUqGKJ4)
 
 About the App: 
-
 A test that contains five questions of coding. the user must answer the questions answer correctly to get the high scores before timer runs out. The more the user anwsers, 
 the  chances he/she wins. 
 
 Technologies:JavaScript(JQuery), HTML and CSS
 
 Future Developments: Cleaner code, more additional questions, including the bonus. 
+
+
+Polished-Updated-Portfolio
 
 
 Motivation(s)
@@ -62,5 +73,11 @@ Problem(s) that I solve: syntax/grammatical errors, creating new folders, missin
 
 Another motivation to do make coding an investment and be on time for other projects. I am making progress in developing a simple routines and taking breaks. 
 
-This is the repo to my link: https://github.com/codeyab22/Polished-Updated-Portfolio/.
-Check this out. This is the link of my website:  https://codeyab22.github.io/Polished-Updated-Portfolio/.
+This is the repo to my link: 
+https://github.com/codeyab22/Polished-Updated-Portfolio/.
+Check this out. This is the link of my website: 
+https://codeyab22.github.io/Polished-Updated-Portfolio/.
+
+This is the portfolio: 
+
+![image](https://drive.google.com/uc?export=view&id=1h3Ua5tdzZxbr49vTq5RmyJPI70H7jkLC)
