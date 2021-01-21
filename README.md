@@ -71,7 +71,8 @@ The motivation to work on this to create purposeful, unique projects that will m
 assignment to the next level. This is more brief summary of what I did for my projects. Another motivation to do make coding an investment and be on time for other projects. I am making progress in developing a simple routines and taking breaks. 
 
 
-# Problem(s) that I solve: syntax/grammatical errors, creating new folders, missing tags, colors, spacing. 
+# Problem(s) that I solve: 
+syntax/grammatical errors, creating new folders, missing tags, colors, spacing. 
 
 
 This is the repo to my link: 
